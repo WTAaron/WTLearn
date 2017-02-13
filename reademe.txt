@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is a config file.
+=======
+start learning 
+>>>>>>> 8a5de16b108f483a2d082c98628a28f8057187e6
